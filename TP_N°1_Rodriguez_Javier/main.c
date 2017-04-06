@@ -19,7 +19,9 @@ int main()
         printf("6- Calcular la multiplicacion (A*B)\n");
         printf("7- Calcular el factorial (A!)\n");
         printf("8- Calcular todas las operacione\n");
-        printf("9- Salir\n");
+        printf("9- Salir\n\n");
+        printf("1er operando: %d\n", numeroUno);
+        printf("2do operando: %d\n", numeroDos);
 
         scanf("%d",&opcion);
 
